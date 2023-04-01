@@ -1,0 +1,3 @@
+C:/Users/PC1/source/repos/Challenge/CMakeFiles/Challenge.dir
+C:/Users/PC1/source/repos/Challenge/CMakeFiles/ALL_BUILD.dir
+C:/Users/PC1/source/repos/Challenge/CMakeFiles/ZERO_CHECK.dir
